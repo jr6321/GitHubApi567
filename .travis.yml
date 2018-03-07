@@ -1,8 +1,6 @@
 language: python
 python:
- - "2.7"
- install:
-  - pip install requests
+ - "3.6"
 
 # command to run tests
 script:
